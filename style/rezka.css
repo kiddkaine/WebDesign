@@ -1,0 +1,169 @@
+.container {
+	max-width: 1100px;
+}
+
+.caption {
+	font-size: 23px;
+	font-family: "Pragmatica Ext";
+	color: #616161;
+	margin: 21px 0 42px 0;
+}
+
+.section__block {
+	width:1064px;
+}
+
+.h__two {
+	font-size: 23px;
+	font-family: "Pragmatica Ext";
+	color: #616161;
+	margin: 33px 0 28px 0;
+}
+
+.section__text {
+	width: 1000px;
+}
+
+.text__info {
+	font-size: 18px;
+	font-family: "SF UI Display Regular";
+	color: #898989;
+	margin: 35px 0;
+}
+
+.list__items {
+	display: flex;
+	border: 1px solid #ADA8A8;
+	list-style: none;
+	font-size: 18px;
+	font-family: "SF UI Display Regular";
+	color: #898989;
+}
+
+.list__item {
+	width: 33.33333%;
+	border-right: 1px solid #ADA8A8;
+}
+
+.list__item:last-child {
+	border-right: none;
+}
+
+.text__variety {
+	margin: 40px 0;
+	text-align: center;
+	font-family: "San Francisco(SF UI)";
+}
+
+.list {
+	padding: 0 20px 37px 75px;
+	list-style: disc;
+}
+
+.photo__item {
+	display: block;
+}
+
+.photo {
+	display: flex;
+	margin: 33px auto 58px auto;
+	justify-content: center;
+}
+
+.first__photo {
+	margin-right: 27px;
+}
+
+.schedule__item {
+	text-align: center;
+	font-family: "SF UI Display Regular";
+	font-size: 18px;
+	color: #EA5A21;
+	margin: 15px 0;
+}
+
+.price {
+	margin-bottom: 0;
+}
+
+.table {
+	width:1000px;
+	font-size: 18px;
+	color:#898989;
+	font-family: "SF UI Display Regular";
+	border-collapse: collapse;
+}
+
+.line:nth-child(2n+1) {
+	background-color: #F3F3F3;
+}
+
+.header__item {
+	width:12.5%;
+	padding: 7px 20px;
+}
+
+.caption__text {
+	text-align: left;
+	margin:19px 0 24px 0;
+}
+
+.category {
+	text-align: center;
+}
+
+.table__item {
+	text-align: center;
+	padding: 10px 20px;
+}
+
+.explantion {
+	width:1000px;
+	font-size: 18px;
+	font-family: "SF UI Display";
+	color:#898989;
+	margin: 70px 0 75px 0;
+}
+
+.explantion__text {
+	margin:0;
+	padding-bottom: 30px;
+}
+
+.text__two {
+	padding-top: 10px;
+}
+.discount, .bonuses {
+	padding: 0 30px;
+}
+
+.banner__item {
+	display: block;
+}
+
+.banner {
+	width: 1100px;
+	margin-bottom: 20px;
+}
+
+.map {
+	width:1100px;
+	height:410px;
+	margin-bottom: 135px;
+}
+
+.map__link {
+	display: block;
+}
+
+.video {
+	width:1080px;
+	margin-bottom: 340px;
+}
+
+.video__item {
+	display: block;
+	width:1080px;
+	height:600px;
+	border: 1px solid black;
+}
